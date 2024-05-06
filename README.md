@@ -1,0 +1,1 @@
+This package uses tensorflow autoencoder, and reduces high-dim feature columns into low-dim feature columns.

@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: autoencoder-kai
+Version: 0.1
+Description-Content-Type: text/markdown
+
+This package uses tensorflow autoencoder, and reduces high-dim feature columns into low-dim feature columns.
